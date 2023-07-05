@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35622591795",
+    "project_id": "spelec-midterms-carljulfranz",
+    "storage_bucket": "spelec-midterms-carljulfranz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35622591795:android:9f15f8e45cbbf6cfdb3246",
+        "android_client_info": {
+          "package_name": "com.example.spelec_midterms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35622591795-mihr7p8j1qdo1163d2veipn1p5onp23c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYtrKGmoLX10FjWPGdCezj238LR2IX8C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35622591795-mihr7p8j1qdo1163d2veipn1p5onp23c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
